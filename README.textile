@@ -28,7 +28,7 @@ Maintenance does not include hosting costs, and major changes to the design and 
 
 h6. Maintenance Plans
 
-Pay As You Go Maintenance
+*Pay As You Go Maintenance*
 <table>
   <tr>
     <th>Select One</th>
