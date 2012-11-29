@@ -74,28 +74,28 @@ or
   </tr>
   <tr>
     <td></td>
-    <td>up to 5 hours</td>
+    <td>5 hours</td>
     <td>Up to 5 hours of maintenance in a month.</td>
     <td>R1 625</td>
     <td>R325p/hr</td>
   </tr>
   <tr>
     <td></td>
-    <td>up to 10 hours</td>
+    <td>10 hours</td>
     <td>Up to 10 hours of maintenance in a month.</td>
     <td>R3 000</td>
     <td>R300p/hr</td>
   </tr>
   <tr>
     <td></td>
-    <td>up to 20 hours</td>
+    <td>20 hours</td>
     <td>Up to 20 hours of maintenance in a month.</td>
     <td>R5 500</td>
     <td>R275p/hr</td>
   </tr>
   <tr>
     <td></td>
-    <td>up to 40 hours</td>
+    <td>40 hours</td>
     <td>Up to 40 hours of maintenance in a month.</td>
     <td>R10 000</td>
     <td>R250p/hr</td>
