@@ -2,7 +2,7 @@ h1. Website Maintenance Agreement
 
 THESE ARE THE STANDARD TERMS AND CONDITIONS REFERRED TO IN THE FOREGOING CONTRACT BETWEEN [Web Design Agency] TRADING AS [cc / pty registered name] AND [Client Name], HAVING ITS PRINCIPAL PLACE OF BUSINESS AT ____________________________________________________, AND HEREINAFTER REFERRED TO AS The Client.
 
-h6. Glossary
+h5. Glossary
 # Definition Of Terms
 # Services Provided
 # Maintenance Plans
@@ -11,7 +11,7 @@ h6. Glossary
 # Entire Understanding
 
 
-h6. 1. Definition Of Terms
+h5. 1. Definition Of Terms
 
 *The Webmaster* - refers to [Web Design Agency], its agents and authorised representatives which are also referred to using “we”, “us”, ”our” and “ours”.
 *The Client* - refers to [Client Name], its agents and authorized representatives which are also referred to using “they”, “them”, “their” and “theirs”.
@@ -20,57 +20,80 @@ h6. 1. Definition Of Terms
 *Website* - refers to the pages presenting the Content stored by The Client at the host computers.
 *The Work* - the subject matter of the contract between The Client and The Webmaster.
 
-h6. 2. Services Provided
+h5. 2. Services Provided
 
 The Client is contracting The Webmaster as an independent contractor for website design and development maintenance. This includes training, fixing errors, adding new pages, editing existing pages, and simple modifications to scripts, templates, applications, and databases.
 
 Maintenance does not include hosting costs, and major changes to the design and functionality of the website. Major changes are changes which are projected to take 4 or more hours to complete. These items would need to be quoted on an individual basis by The Webmaster unless previously agreed to in writing between The Client and The Webmaster.
 
-h6. Maintenance Plans
+h5. Service Plans
 
-*Pay As You Go Maintenance*
+All service plans begin on the 1st of each month. All website maintenance requests have a minimum charge of ½ hour with all additional time charged to the nearest ½ hour. A log of time spent will be provided upon request.
+
+h6. Pay As You Go Service Plan
+
+The prepaid plan has no recurring monthly costs and is billed in arrears, and in 1 hour, 5 hour, 10 hour, and greater than 10 hour increments. The Client is charged for services rendered as stated herein.
+
+h6. Fixed Monthly Plans
+
+These plans are recurring plans that are billed monthly, in advance, and until canceled. There is a 14 day notice of 
+cancellation prior to the next month’s billing required by either party. Notice must be given in writing via 
+fax or email. Any time not used within the current 1 month billing period will expire. There is no rollover of time to the next billing period and no refunds or credits will be issued for expired time. Time not used is non-transferrable. If The Work exceeds the time outlined by the selected plan, any additional time will be billed at The Webmaster's standard rate of R200 per half hour or part thereof. 
+
+The Webmaster will notify The Client upon reaching seventy five percent (75%) of the number of hours of the selected fixed plan.
+
+Please select your desired service plan by placing an X next to the desired plan.
+
+*Pay As You Go*
+Pay only for The Work done
 
 <table>
   <tr>
     <th>Choose This Maintenance</th>    
     <th>Hours</th>
-    <th>Details</th>
-    <th>Cost Per Hour (p/hr)</th>
+    <th>Description</th>
+    <th>Rate Per Hour (p/hr)</th>
+    <th>Savings</th>
   </tr>
   <tr>
     <td rowspan=4></td>
-    <td>1</td>
+    <td>1 hour</td>
     <td>Up to 1 hour of maintenance a month.</td>
-    <td>R350p/hr</td>
+    <td>R375p/hr</td>
+    <td>6.25%</td>
   </tr>
   <tr>
-    <td>< 5</td>
+    <td>< 5 hours</td>
     <td>Up to 5 hours of maintenance a month.</td>
-    <td>R325p/hr</td>
+    <td>R350p/hr</td>
+    <td>12.5%</td>
   </tr>
   <tr>
-    <td>< 10</td>
+    <td>< 10 hours</td>
     <td>Up to 10 hours of maintenance a month.</td>
-    <td>R300p/hr</td>
+    <td>R325p/hr</td>
+    <td>18.75%</td>
   </tr>
   <tr>
-    <td>10 ></td>
+    <td>10 hours ></td>
     <td>More than 10 hours of maintenance a month.</td>
-    <td>R275p/hr</td>
+    <td>R300p/hr</td>
+    <td>25%</td>
   </tr>
 </table>
 
 or
 
-*Monthly Maintenance Packages*
+*Fixed Monthly Packages*
 
 <table>
   <tr>
     <th>Choose a Package</th>
     <th>Hours</th>
-    <th>Details</th>
+    <th>Description</th>
     <th>Cost</th>
     <th>Cost Per Hour (p/hr)</th>
+    <th>Savings</th>
   </tr>
   <tr>
     <td></td>
@@ -78,6 +101,7 @@ or
     <td>Up to 5 hours of maintenance in a month.</td>
     <td>R1 625</td>
     <td>R325p/hr</td>
+    <td>18.75%</td>
   </tr>
   <tr>
     <td></td>
@@ -85,6 +109,7 @@ or
     <td>Up to 10 hours of maintenance in a month.</td>
     <td>R3 000</td>
     <td>R300p/hr</td>
+    <td>25%</td>
   </tr>
   <tr>
     <td></td>
@@ -92,6 +117,7 @@ or
     <td>Up to 20 hours of maintenance in a month.</td>
     <td>R5 500</td>
     <td>R275p/hr</td>
+    <td>31.25%</td>
   </tr>
   <tr>
     <td></td>
@@ -99,6 +125,7 @@ or
     <td>Up to 40 hours of maintenance in a month.</td>
     <td>R10 000</td>
     <td>R250p/hr</td>
+    <td>37.5%</td>
   </tr>
 </table>
 
