@@ -7,8 +7,15 @@ h3. Glossary
 # Definition Of Terms
 # Services Provided
 # Service Plans
+## Pay-As-You-Go Service Plan
+## Fixed Monthly Service Plans
+# Account Access
+# Assignment Of Work
 # Copyrights And Trademarks
+# Indemnification
 # Laws Affecting Electronic Commerce
+# Non-Disclosure
+# Cancellation
 # Entire Understanding
 
 
@@ -34,6 +41,7 @@ The Client is responsible for license fees for any 3rd party images, programs or
 h3. Service Plans
 
 All service plans begin on the 1st of each month. All website maintenance requests have a minimum charge of ½ hour with all additional time charged to the nearest ½ hour. The Client is charged for services rendered as stated herein. A log of time spent will be provided upon request.
+
 
 h6. Pay-As-You-Go Service Plan
 
