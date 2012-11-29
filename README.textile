@@ -167,7 +167,7 @@ The Client also agrees to defend, indemnify and hold harmless The Webmaster agai
 h3. 8. Laws Affecting Electronic Commerce
 
 The Client agrees that The Client is solely responsible for complying with such laws, taxes, and tariffs, and will hold 
-harmless, protect, and defend 'Provider' and it's subcontractors from any claim, suit, penalty, tax, or tariff arising from The Client's use of Internet electronic commerce.
+harmless, protect, and defend The Webmaster and its subcontractors from any claim, suit, penalty, tax, or tariff arising from The Client's use of Internet electronic commerce.
 
 
 h3. 9. Non-Disclosure
