@@ -57,40 +57,11 @@ Please select your desired service plan. An X next to a plan indicates that that
 
 *Pay-As-You-Go Service Plan*
 
-<table>
-  <tr>
-    <th>Select This Plan</th>    
-    <th>Hours</th>
-    <th>Description</th>
-    <th>Rate Per Hour (p/hr)</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td rowspan=4></td>
-    <td>1 hour</td>
-    <td>Up to 1 hour of maintenance a month.</td>
-    <td>R375p/hr</td>
-    <td>6.25%</td>
-  </tr>
-  <tr>
-    <td>< 5 hours</td>
-    <td>Up to 5 hours of maintenance a month.</td>
-    <td>R350p/hr</td>
-    <td>12.5%</td>
-  </tr>
-  <tr>
-    <td>< 10 hours</td>
-    <td>Up to 10 hours of maintenance a month.</td>
-    <td>R325p/hr</td>
-    <td>18.75%</td>
-  </tr>
-  <tr>
-    <td>10 hours ></td>
-    <td>More than 10 hours of maintenance a month.</td>
-    <td>R300p/hr</td>
-    <td>25%</td>
-  </tr>
-</table>
+|_.Select This Plan |_.Hours    |_.Description                              |_.Rate Per Hour (p/hr) |_.Savings|
+|/4.                |1 hour     |Up to 1 hour of maintenance a month.       |R375p/hr               |6.25%|
+|< 5 hours  |Up to 5 hours of maintenance a month.      |R350p/hr               |12.5%|
+|< 10 hours |Up to 10 hours of maintenance a month.     |R325p/hr               |18.75%|
+|10 hours > |More than 10 hours of maintenance a month. |R300p/hr               |25%|
 
 or
 
