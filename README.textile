@@ -150,6 +150,7 @@ The Client represents to The Webmaster and unconditionally guarantees that any e
 
 
 h3. Indemnification
+
 The Client agrees that it shall defend, indemnify, save and hold The Webmaster harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorney’s fees associated with The Webmaster’s maintenance of The Client’s web site. This includes liabilities asserted against The Webmaster, its subcontractors, its agents, its clients, servants, officers and employees, that may arise or result from any service provided or performed or agreed to be performed or any product sold by The Client, its agents, employees or assigns. 
 
 The Client also agrees to defend, indemnify and hold harmless The Webmaster against liabilities arising out of any injury to person or property caused by any products or services sold or otherwise distributed over The Client’s web site. This includes infringing upon on the proprietary rights of a third party, copyright infringement, and delivering any defective product or misinformation which is detrimental to another person, organization, or business.  
