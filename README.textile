@@ -29,33 +29,29 @@ Maintenance does not include hosting costs, and major changes to the design and 
 h6. Maintenance Plans
 
 *Pay As You Go Maintenance*
+
 <table>
   <tr>
-    <th>Select One</th>
     <th>Hours</th>
     <th>Details</th>
     <th>Cost</th>
   </tr>
   <tr>
-    <th></th>
     <td>1hr</td>
     <td>Up to 1hour of maintenance.</td>
     <td>R350p/hr</td>
   </tr>
   <tr>
-    <th></th>
     <td>< 5hr</td>
     <td>Up to 5hours of maintenance.</td>
     <td>R325p/hr</td>
   </tr>
   <tr>
-    <th></th>
     <td>< 10hr</td>
     <td>Up to 10hours of maintenance.</td>
     <td>R300p/hr</td>
   </tr>
   <tr>
-    <th></th>
     <td>10hr ></td>
     <td>More than 10hours of maintenance.</td>
     <td>R275p/hr</td>
@@ -77,4 +73,3 @@ This contract constitutes the sole agreement between The Webmaster and The Clien
 service. This agreement shall be governed by the laws of the [Country / State / Province].
 
 I,_____________________________, assert that I have the authority to make decisions concerning this project, and that I have the authority to promise payment to The Webmaster for services rendered. I assert that I have read The Webmaster's Website Maintenance Agreement and understand the contents herein.
-
