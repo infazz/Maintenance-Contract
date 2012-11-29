@@ -2,16 +2,17 @@ h1. Website Maintenance Agreement
 
 THESE ARE THE STANDARD TERMS AND CONDITIONS REFERRED TO IN THE FOREGOING CONTRACT BETWEEN [Web Design Agency] TRADING AS [cc / pty registered name] AND [Client Name], HAVING ITS PRINCIPAL PLACE OF BUSINESS AT ____________________________________________________, AND HEREINAFTER REFERRED TO AS The Client.
 
-h5. Glossary
+
+h3. Glossary
 # Definition Of Terms
 # Services Provided
-# Maintenance Plans
+# Service Plans
 # Copyrights And Trademarks
 # Laws Affecting Electronic Commerce
 # Entire Understanding
 
 
-h5. 1. Definition Of Terms
+h3. 1. Definition Of Terms
 
 *The Webmaster* - refers to [Web Design Agency], its agents and authorised representatives which are also referred to using “we”, “us”, ”our” and “ours”.
 *The Client* - refers to [Client Name], its agents and authorized representatives which are also referred to using “they”, “them”, “their” and “theirs”.
@@ -20,36 +21,38 @@ h5. 1. Definition Of Terms
 *Website* - refers to the pages presenting the Content stored by The Client at the host computers.
 *The Work* - the subject matter of the contract between The Client and The Webmaster.
 
-h5. 2. Services Provided
 
-The Client is contracting The Webmaster as an independent contractor for website design and development maintenance. This includes training, fixing errors, adding new pages, editing existing pages, and simple modifications to scripts, templates, applications, and databases.
+h3. 2. Services Provided
+
+The Client is contracting The Webmaster as an independent contractor for website design and development maintenance. This includes fixing errors, adding new pages, editing existing pages, and simple modifications to scripts, templates, applications, and databases.
 
 Maintenance does not include hosting costs, and major changes to the design and functionality of the website. Major changes are changes which are projected to take 4 or more hours to complete. These items would need to be quoted on an individual basis by The Webmaster unless previously agreed to in writing between The Client and The Webmaster.
 
-h5. Service Plans
+The Client is responsible for license fees for any 3rd party images, programs or scripts. 
 
-All service plans begin on the 1st of each month. All website maintenance requests have a minimum charge of ½ hour with all additional time charged to the nearest ½ hour. A log of time spent will be provided upon request.
 
-h6. Pay As You Go Service Plan
+h3. Service Plans
 
-The prepaid plan has no recurring monthly costs and is billed in arrears, and in 1 hour, 5 hour, 10 hour, and greater than 10 hour increments. The Client is charged for services rendered as stated herein.
+All service plans begin on the 1st of each month. All website maintenance requests have a minimum charge of ½ hour with all additional time charged to the nearest ½ hour. The Client is charged for services rendered as stated herein. A log of time spent will be provided upon request.
 
-h6. Fixed Monthly Plans
+h6. Pay-As-You-Go Service Plan
 
-These plans are recurring plans that are billed monthly, in advance, and until canceled. There is a 14 day notice of 
-cancellation prior to the next month’s billing required by either party. Notice must be given in writing via 
-fax or email. Any time not used within the current 1 month billing period will expire. There is no rollover of time to the next billing period and no refunds or credits will be issued for expired time. Time not used is non-transferrable. If The Work exceeds the time outlined by the selected plan, any additional time will be billed at The Webmaster's standard rate of R200 per half hour or part thereof. 
+The Pay-As-You-Go Service Plan has no recurring monthly costs and is billed in arrears, and in 1 hour, 5 hour, 10 hour, and greater than 10 hour increments. Only the number of hours constituting The Work in a given month will be billed for.
+
+
+h6. Fixed Monthly Service Plans
+
+The Fixed Monthly Service Plans are recurring plans that are billed on a month to month basis, in advance, and until cancelled. Any time not used within the current 1 month billing period will expire. There is no rollover of time to the next billing period and no refunds or credits will be issued for expired time. Time not used is non-transferrable. If The Work exceeds the time outlined by the selected plan, any additional time will be billed at The Webmaster's standard rate of R200 per half hour or part thereof. 
 
 The Webmaster will notify The Client upon reaching seventy five percent (75%) of the number of hours of the selected fixed plan.
 
-Please select your desired service plan by placing an X next to the desired plan.
+Please select your desired service plan. An X next to a plan indicates that plan is selected for this Agreement.
 
-*Pay As You Go*
-Pay only for The Work done
+*Pay-As-You-Go Service Plan*
 
 <table>
   <tr>
-    <th>Choose This Maintenance</th>    
+    <th>Select This Plan</th>    
     <th>Hours</th>
     <th>Description</th>
     <th>Rate Per Hour (p/hr)</th>
@@ -84,11 +87,11 @@ Pay only for The Work done
 
 or
 
-*Fixed Monthly Packages*
+*Fixed Monthly Service Plans*
 
 <table>
   <tr>
-    <th>Choose a Package</th>
+    <th>Select A Plan</th>
     <th>Hours</th>
     <th>Description</th>
     <th>Cost</th>
@@ -129,16 +132,41 @@ or
   </tr>
 </table>
 
-h6. Copyrights And Trademarks
+
+h3. Account Access
+
+The Client agrees to provide The Webmaster full ftp and secure shell access to the hosting server. The Client understands that some website changes may require a change in hosting services which is not covered by this agreement.
+
+
+h3. Assignment Of Work
+
+The Webmaster reserves the right to assign subcontractors to this project to ensure the right fit for the job as well 
+as on-time completion.
+
+
+h3. Copyrights And Trademarks
 
 The Client represents to The Webmaster and unconditionally guarantees that any elements of text, graphics, photos, designs, trademarks, or other artwork furnished to The Webmaster for inclusion in The Client's web site are owned by the Client, or that The Client has permission from the rightful owner to use each of these elements, and will hold harmless, protect, and defend The Webmaster and its subcontractors from any claim or suit arising from the use of such elements furnished by The Client.
 
-h6. Laws Affecting Electronic Commerce
+
+h3. Laws Affecting Electronic Commerce
 
 The Client agrees that The Client is solely responsible for complying with such laws, taxes, and tariffs, and will hold 
 harmless, protect, and defend 'Provider' and it's subcontractors from any claim, suit, penalty, tax, or tariff arising from The Client's use of Internet electronic commerce.
 
-h6. Entire Understanding
+
+h3. Non-Disclosure
+The Webmaster, its employees and subcontractors agree that, except as directed by The Client, it will not at any time during or after the term of this Agreement disclose any confidential information to any person whatsoever. Likewise, The Client agrees that it will not convey any confidential information obtained about the Webmaster to another party.
+
+
+h3. Cancellation
+
+If The Client desires to cancel a Pay-As-You-Go service plan agreement, no action is necessary.
+
+If The Client desires to cancel a Fixed Monthly Service Plan, there is a 10 day notice of cancellation prior to the next month’s billing required by either party. Notice must be given in writing via email.
+
+
+h3. Entire Understanding
 
 This contract constitutes the sole agreement between The Webmaster and The Client regarding its web design maintenance 
 service. This agreement shall be governed by the laws of the [Country / State / Province].
