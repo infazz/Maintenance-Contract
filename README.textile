@@ -32,29 +32,73 @@ h6. Maintenance Plans
 
 <table>
   <tr>
+    <th>Choose This Maintenance</th>    
     <th>Hours</th>
     <th>Details</th>
-    <th>Cost</th>
+    <th>Cost Per Hour (p/hr)</th>
   </tr>
   <tr>
-    <td>1hr</td>
-    <td>Up to 1hour of maintenance.</td>
+    <td rowspan=4></td>
+    <td>1</td>
+    <td>Up to 1 hour of maintenance a month.</td>
     <td>R350p/hr</td>
   </tr>
   <tr>
-    <td>< 5hr</td>
-    <td>Up to 5hours of maintenance.</td>
+    <td>< 5</td>
+    <td>Up to 5 hours of maintenance a month.</td>
     <td>R325p/hr</td>
   </tr>
   <tr>
-    <td>< 10hr</td>
-    <td>Up to 10hours of maintenance.</td>
+    <td>< 10</td>
+    <td>Up to 10 hours of maintenance a month.</td>
     <td>R300p/hr</td>
   </tr>
   <tr>
-    <td>10hr ></td>
-    <td>More than 10hours of maintenance.</td>
+    <td>10 ></td>
+    <td>More than 10 hours of maintenance a month.</td>
     <td>R275p/hr</td>
+  </tr>
+</table>
+
+or
+
+*Monthly Maintenance Packages*
+
+<table>
+  <tr>
+    <th>Choose a Package</th>
+    <th>Hours</th>
+    <th>Details</th>
+    <th>Cost</th>
+    <th>Cost Per Hour (p/hr)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>up to 5 hours</td>
+    <td>Up to 5 hours of maintenance in a month.</td>
+    <td>R1 625</td>
+    <td>R325p/hr</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>up to 10 hours</td>
+    <td>Up to 10 hours of maintenance in a month.</td>
+    <td>R3 000</td>
+    <td>R300p/hr</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>up to 20 hours</td>
+    <td>Up to 20 hours of maintenance in a month.</td>
+    <td>R5 500</td>
+    <td>R275p/hr</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>up to 40 hours</td>
+    <td>Up to 40 hours of maintenance in a month.</td>
+    <td>R10 000</td>
+    <td>R250p/hr</td>
   </tr>
 </table>
 
