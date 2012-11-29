@@ -33,7 +33,7 @@ h3. 2. Services Provided
 
 The Client is contracting The Webmaster as an independent contractor for website design and development maintenance. This includes fixing errors, adding new pages, editing existing pages, editing graphics, and simple modifications to scripts, templates, applications, and databases.
 
-Maintenance does not include hosting costs, and major changes to the design and functionality of the website. Major changes are changes which are projected to take 4 or more hours to complete. These items would need to be quoted on an individual basis by The Webmaster unless previously agreed to in writing between The Client and The Webmaster.
+Maintenance does not include hosting costs, and major changes to the design and functionality of the website. Major changes are discrete changes which are projected to take 4 or more hours to complete. These items would need to be quoted on an individual basis by The Webmaster unless previously agreed to in writing between The Client and The Webmaster.
 
 The Client is responsible for license fees for any 3rd party images, programs or scripts. 
 
