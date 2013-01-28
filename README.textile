@@ -62,6 +62,7 @@ Please select your desired service plan. An X next to a plan indicates that that
 |< 5 hours  |Up to 5 hours of maintenance a month.      |R350p/hr               |12.5%|
 |< 10 hours |Up to 10 hours of maintenance a month.     |R325p/hr               |18.75%|
 |10 hours > |More than 10 hours of maintenance a month. |R300p/hr               |25%|
+|10 hours > |More than 10 hours of maintenance a month. |R300p/hr               |25%|
 
 or
 
